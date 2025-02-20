@@ -1,0 +1,35 @@
+# 忽略构建文件
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.ncb
+*.sdf
+*.suo
+*.user
+*.log
+*.zip
+
+# 忽略副项目源代码
+RGBD2VR_V12/
+RGBD2VR_V13/
+RGBD2VR_V14/
+RGBD2VR_V14_BkGlnd/
+RGBD2VR_V15_BkGlnd/
+RGBD2VR_V16_BkGlnd/
+RGBD2VR_V1303_BkGlnd/
+
+# 保留生成的 DLL
+!x64/Debug/*.dll
+!x64/Debug/*.lib
+!x64/Debug/*.exp
+
+# CMake、VS生成文件
+CMakeCache.txt
+CMakeFiles/
+*.vcxproj.user
+*.VC.db
+*.tlog
+*.ipdb
+*.iobj

@@ -1,0 +1,1259 @@
+[10:16:13 -04:00] [blink_logger] [---I---] [thread 27600] Maximum number of sources is set to 1
+[10:16:13 -04:00] [blink_logger] [---I---] [thread 27600] Maximum number of faces is set to 3
+[10:16:49 -04:00] [blink_logger] [---E---] [thread 27600] Failed to detect face with status: Not Supported image format
+[10:32:23 -04:00] [blink_logger] [---I---] [thread 24476] Maximum number of sources is set to 1
+[10:32:23 -04:00] [blink_logger] [---I---] [thread 24476] Maximum number of faces is set to 3
+[10:33:13 -04:00] [blink_logger] [---E---] [thread 24476] Failed to detect face with status: Not Supported image format
+[10:33:46 -04:00] [blink_logger] [---I---] [thread 23972] Maximum number of sources is set to 1
+[10:33:46 -04:00] [blink_logger] [---I---] [thread 23972] Maximum number of faces is set to 3
+[10:33:57 -04:00] [blink_logger] [---E---] [thread 23972] Failed to detect face with status: Not Supported image format
+[11:21:31 -04:00] [blink_logger] [---I---] [thread 21452] Maximum number of sources is set to 1
+[11:21:31 -04:00] [blink_logger] [---I---] [thread 21452] Maximum number of faces is set to 3
+[11:21:56 -04:00] [blink_logger] [---E---] [thread 21452] Failed to detect face with status: Not Supported image format
+[11:27:38 -04:00] [blink_logger] [---I---] [thread 8120] Maximum number of sources is set to 1
+[11:27:38 -04:00] [blink_logger] [---I---] [thread 8120] Maximum number of faces is set to 3
+[11:27:50 -04:00] [blink_logger] [---E---] [thread 8120] Failed to detect face with status: Not Supported image format
+[12:47:40 -04:00] [blink_logger] [---I---] [thread 32208] Maximum number of sources is set to 1
+[12:47:40 -04:00] [blink_logger] [---I---] [thread 32208] Maximum number of faces is set to 3
+[12:47:50 -04:00] [blink_logger] [---I---] [thread 32208] Adding 1 threads to thread pool
+[12:47:51 -04:00] [blink_logger] [---E---] [thread 32208] Failed to get face IDs with status: Could not get face ids. Invalid image format.
+[16:14:31 -04:00] [blink_logger] [---I---] [thread 21048] Maximum number of sources is set to 1
+[16:14:31 -04:00] [blink_logger] [---I---] [thread 21048] Maximum number of faces is set to 3
+[16:14:31 -04:00] [blink_logger] [---I---] [thread 21048] Adding 1 threads to thread pool
+[16:36:09 -04:00] [blink_logger] [---I---] [thread 35148] Maximum number of sources is set to 1
+[16:36:09 -04:00] [blink_logger] [---I---] [thread 35148] Maximum number of faces is set to 3
+[16:36:10 -04:00] [blink_logger] [---I---] [thread 35148] Adding 1 threads to thread pool
+[17:00:17 -04:00] [blink_logger] [---I---] [thread 15640] Maximum number of sources is set to 1
+[17:00:17 -04:00] [blink_logger] [---I---] [thread 15640] Maximum number of faces is set to 3
+[17:00:17 -04:00] [blink_logger] [---I---] [thread 15640] Adding 1 threads to thread pool
+[17:15:16 -04:00] [blink_logger] [---I---] [thread 30576] Maximum number of sources is set to 1
+[17:15:16 -04:00] [blink_logger] [---I---] [thread 30576] Maximum number of faces is set to 3
+[17:15:17 -04:00] [blink_logger] [---I---] [thread 30576] Adding 1 threads to thread pool
+[17:47:52 -04:00] [blink_logger] [---I---] [thread 30160] Maximum number of sources is set to 1
+[17:47:52 -04:00] [blink_logger] [---I---] [thread 30160] Maximum number of faces is set to 3
+[17:47:53 -04:00] [blink_logger] [---I---] [thread 30160] Adding 1 threads to thread pool
+[12:49:47 -04:00] [blink_logger] [---I---] [thread 15864] Maximum number of sources is set to 1
+[12:49:47 -04:00] [blink_logger] [---I---] [thread 15864] Maximum number of faces is set to 3
+[12:49:48 -04:00] [blink_logger] [---I---] [thread 15864] Adding 1 threads to thread pool
+[13:34:52 -04:00] [blink_logger] [---I---] [thread 24144] Maximum number of sources is set to 1
+[13:34:52 -04:00] [blink_logger] [---I---] [thread 24144] Maximum number of faces is set to 3
+[13:34:53 -04:00] [blink_logger] [---I---] [thread 24144] Adding 1 threads to thread pool
+[14:21:19 -04:00] [blink_logger] [---I---] [thread 12752] Maximum number of sources is set to 1
+[14:21:19 -04:00] [blink_logger] [---I---] [thread 12752] Maximum number of faces is set to 3
+[14:21:20 -04:00] [blink_logger] [---I---] [thread 12752] Adding 1 threads to thread pool
+[15:05:39 -04:00] [blink_logger] [---I---] [thread 20116] Maximum number of sources is set to 1
+[15:05:39 -04:00] [blink_logger] [---I---] [thread 20116] Maximum number of faces is set to 3
+[15:05:40 -04:00] [blink_logger] [---I---] [thread 20116] Adding 1 threads to thread pool
+[12:27:51 -04:00] [blink_logger] [---I---] [thread 18508] Maximum number of sources is set to 1
+[12:27:51 -04:00] [blink_logger] [---I---] [thread 18508] Maximum number of faces is set to 3
+[12:27:51 -04:00] [blink_logger] [---I---] [thread 18508] Adding 1 threads to thread pool
+[12:33:49 -04:00] [blink_logger] [---I---] [thread 10224] Maximum number of sources is set to 1
+[12:33:49 -04:00] [blink_logger] [---I---] [thread 10224] Maximum number of faces is set to 3
+[12:33:50 -04:00] [blink_logger] [---I---] [thread 10224] Adding 1 threads to thread pool
+[14:09:18 -04:00] [blink_logger] [---I---] [thread 31704] Maximum number of sources is set to 1
+[14:09:18 -04:00] [blink_logger] [---I---] [thread 31704] Maximum number of faces is set to 3
+[14:09:19 -04:00] [blink_logger] [---I---] [thread 31704] Adding 1 threads to thread pool
+[14:11:20 -04:00] [blink_logger] [---I---] [thread 17220] Maximum number of sources is set to 1
+[14:11:20 -04:00] [blink_logger] [---I---] [thread 17220] Maximum number of faces is set to 3
+[14:11:21 -04:00] [blink_logger] [---I---] [thread 17220] Adding 1 threads to thread pool
+[14:27:19 -04:00] [blink_logger] [---I---] [thread 29672] Maximum number of sources is set to 1
+[14:27:19 -04:00] [blink_logger] [---I---] [thread 29672] Maximum number of faces is set to 3
+[14:27:19 -04:00] [blink_logger] [---I---] [thread 29672] Adding 1 threads to thread pool
+[16:28:45 -04:00] [blink_logger] [---I---] [thread 6216] Maximum number of sources is set to 1
+[16:28:45 -04:00] [blink_logger] [---I---] [thread 6216] Maximum number of faces is set to 3
+[16:28:46 -04:00] [blink_logger] [---I---] [thread 6216] Adding 1 threads to thread pool
+[12:11:45 -04:00] [blink_logger] [---I---] [thread 1668] Maximum number of sources is set to 1
+[12:11:45 -04:00] [blink_logger] [---I---] [thread 1668] Maximum number of faces is set to 3
+[12:11:46 -04:00] [blink_logger] [---I---] [thread 1668] Adding 1 threads to thread pool
+[12:13:10 -04:00] [blink_logger] [---I---] [thread 14764] Maximum number of sources is set to 1
+[12:13:10 -04:00] [blink_logger] [---I---] [thread 14764] Maximum number of faces is set to 3
+[12:13:10 -04:00] [blink_logger] [---I---] [thread 14764] Adding 1 threads to thread pool
+[12:49:02 -04:00] [blink_logger] [---I---] [thread 4616] Maximum number of sources is set to 1
+[12:49:02 -04:00] [blink_logger] [---I---] [thread 4616] Maximum number of faces is set to 3
+[12:49:02 -04:00] [blink_logger] [---I---] [thread 4616] Adding 1 threads to thread pool
+[15:51:47 -04:00] [blink_logger] [---I---] [thread 21952] Maximum number of sources is set to 1
+[15:51:47 -04:00] [blink_logger] [---I---] [thread 21952] Maximum number of faces is set to 3
+[15:51:47 -04:00] [blink_logger] [---I---] [thread 21952] Adding 1 threads to thread pool
+[12:49:52 -04:00] [blink_logger] [---I---] [thread 10216] Maximum number of sources is set to 1
+[12:49:52 -04:00] [blink_logger] [---I---] [thread 10216] Maximum number of faces is set to 3
+[12:49:53 -04:00] [blink_logger] [---I---] [thread 10216] Adding 1 threads to thread pool
+[11:04:46 -04:00] [blink_logger] [---I---] [thread 21580] Maximum number of sources is set to 1
+[11:04:46 -04:00] [blink_logger] [---I---] [thread 21580] Maximum number of faces is set to 3
+[11:04:47 -04:00] [blink_logger] [---I---] [thread 21580] Adding 1 threads to thread pool
+[10:36:26 -04:00] [blink_logger] [---I---] [thread 16756] Maximum number of sources is set to 1
+[10:36:26 -04:00] [blink_logger] [---I---] [thread 16756] Maximum number of faces is set to 3
+[10:36:26 -04:00] [blink_logger] [---I---] [thread 16756] Adding 1 threads to thread pool
+[11:23:02 -04:00] [blink_logger] [---I---] [thread 25436] Maximum number of sources is set to 1
+[11:23:02 -04:00] [blink_logger] [---I---] [thread 25436] Maximum number of faces is set to 3
+[11:23:03 -04:00] [blink_logger] [---I---] [thread 25436] Adding 1 threads to thread pool
+[11:23:59 -04:00] [blink_logger] [---I---] [thread 29104] Maximum number of sources is set to 1
+[11:23:59 -04:00] [blink_logger] [---I---] [thread 29104] Maximum number of faces is set to 3
+[11:24:00 -04:00] [blink_logger] [---I---] [thread 29104] Adding 1 threads to thread pool
+[11:25:23 -04:00] [blink_logger] [---I---] [thread 25580] Maximum number of sources is set to 1
+[11:25:23 -04:00] [blink_logger] [---I---] [thread 25580] Maximum number of faces is set to 3
+[11:25:23 -04:00] [blink_logger] [---I---] [thread 25580] Adding 1 threads to thread pool
+[11:25:56 -04:00] [blink_logger] [---I---] [thread 27300] Maximum number of sources is set to 1
+[11:25:56 -04:00] [blink_logger] [---I---] [thread 27300] Maximum number of faces is set to 3
+[11:25:56 -04:00] [blink_logger] [---I---] [thread 27300] Adding 1 threads to thread pool
+[12:52:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:52:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:52:48 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:52:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:52:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:52:49 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:06 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:07 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:07 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:07 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:09 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:10 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:12 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:12 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:12 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:13 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:14 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:15 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:16 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:16 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:17 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:18 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:18 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:18 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:19 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:20 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:20 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:21 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:22 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:23 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:24 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:24 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:25 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:26 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:27 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:28 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:28 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:29 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:30 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:30 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:30 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:31 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:32 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:32 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:33 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:34 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:34 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:34 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:36 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:36 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:36 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:37 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:38 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:38 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:38 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:40 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:40 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:40 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:41 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:42 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:42 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:42 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:44 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:44 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:44 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:45 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:46 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:46 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:46 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:48 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:49 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:50 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:50 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:50 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:51 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:52 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:52 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:53 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:54 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:55 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:55 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:55 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:56 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:56 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:57 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:58 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:58 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:58 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:53:59 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:53:59 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:53:59 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:00 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:00 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:01 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:02 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:02 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:02 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:03 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:03 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:03 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:04 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:04 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:05 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:06 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:07 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:07 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:07 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:09 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:10 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:11 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:12 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:12 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:13 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:14 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:15 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:16 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:16 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:17 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:17 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:17 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:18 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:19 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:20 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:20 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:21 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:22 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:23 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:24 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:24 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:25 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:26 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:27 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:28 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:28 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:29 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:29 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:29 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:30 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:31 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:32 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:32 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:33 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:33 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:33 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:34 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:35 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:36 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:36 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:36 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:37 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:37 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:38 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:39 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:40 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:40 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:40 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:41 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:41 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:42 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:43 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:44 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:44 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:44 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:45 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:45 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:46 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:47 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:48 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:48 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:49 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:49 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:50 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:51 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:52 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:52 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:52 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:53 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:53 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:54 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:55 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:56 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:56 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:56 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:57 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:57 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:57 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:54:58 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:54:58 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:54:59 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:00 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:00 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:00 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:01 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:01 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:01 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:02 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:02 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:03 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:04 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:04 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:04 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:05 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:05 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:05 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:06 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:07 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:08 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:08 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:09 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:09 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:09 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:10 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:11 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:11 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:12 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:13 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:13 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:13 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:14 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:14 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:15 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:16 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:17 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:17 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:17 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:18 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:18 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:19 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:19 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:20 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:21 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:21 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:21 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:22 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:22 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:23 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:24 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:25 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:25 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:25 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:26 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:26 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:27 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:28 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:29 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:29 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:29 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:30 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:30 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:30 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:31 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:32 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:33 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:33 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:33 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:34 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:34 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:34 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:35 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:36 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:37 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:37 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:37 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:38 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:38 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:38 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:39 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:40 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:41 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:41 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:41 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:42 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:42 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:42 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:43 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:44 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:45 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:45 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:45 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:46 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:46 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:46 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:47 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:48 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:49 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:49 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:49 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:50 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:50 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:50 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:51 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:52 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:53 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:53 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:53 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of sources is set to 1
+[12:55:54 -04:00] [blink_logger] [---I---] [thread 24512] Maximum number of faces is set to 3
+[12:55:54 -04:00] [blink_logger] [---I---] [thread 24512] Adding 1 threads to thread pool
+[12:55:54 -04:00] [blink_logger] [---W---] [thread 24512] Face detector could not find a face.
+[12:55:54 -04:00] [blink_logger] [---E---] [thread 24512] Failed to detect face with status: Failed to estimate.
+[13:13:12 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:12 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:12 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:13 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:14 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:14 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:14 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:16 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:17 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:18 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:18 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:18 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:19 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:20 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:20 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:21 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:22 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:22 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:22 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:24 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:25 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:26 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:26 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:26 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:28 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:29 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:29 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:29 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:30 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:32 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:33 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:33 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:33 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:34 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:36 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:37 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:37 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:37 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:39 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:40 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:41 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:41 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:41 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:43 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:44 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:45 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:45 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:45 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:47 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:48 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:49 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:49 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:49 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:51 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:52 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:53 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:53 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:53 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:55 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:56 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:57 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:57 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:57 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:13:59 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:13:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:13:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:00 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:01 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:01 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:01 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:03 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:04 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:04 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:04 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:05 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:05 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:05 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:06 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:06 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:07 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:08 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:08 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:08 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:09 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:09 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:09 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:10 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:10 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:11 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:11 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:11 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:12 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:13 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:14 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:14 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:15 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:16 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:17 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:18 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:18 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:19 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:20 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:21 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:21 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:21 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:22 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:22 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:23 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:24 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:25 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:26 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:26 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:27 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:28 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:29 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:29 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:29 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:30 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:32 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:33 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:33 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:33 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:34 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:36 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:37 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:37 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:37 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:38 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:40 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:41 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:41 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:41 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:42 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:44 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:44 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:44 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:45 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:46 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:47 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:48 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:48 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:49 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:50 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:51 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:52 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:52 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:53 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:54 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:55 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:56 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:56 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:57 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:58 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:14:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:14:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:14:59 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:00 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:00 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:01 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:02 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:03 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:03 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:03 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:04 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:04 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:05 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:05 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:05 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:06 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:07 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:07 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:07 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:08 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:08 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:09 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:09 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:09 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:10 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:11 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:11 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:11 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:12 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:12 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:13 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:13 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:14 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:15 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:15 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:16 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:16 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:17 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:17 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:18 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:19 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:19 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:20 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:20 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:20 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:21 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:21 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:22 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:23 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:23 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:24 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:24 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:25 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:25 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:26 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:27 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:27 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:28 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:28 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:29 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:30 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:30 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:31 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:31 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:32 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:32 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:33 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:34 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:34 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:35 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:35 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:36 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:36 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:37 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:38 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:38 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:39 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:40 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:40 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:40 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:41 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:42 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:42 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:43 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:43 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:44 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:44 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:45 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:46 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:46 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:47 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:47 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:48 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:48 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:49 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:50 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:50 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:51 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:52 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:53 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:53 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:53 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:54 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:54 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:55 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:56 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:57 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:57 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:57 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:58 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:15:58 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:15:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:15:59 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:16:00 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:16:01 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:16:01 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:16:01 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:16:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:16:02 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:16:02 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:16:03 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of sources is set to 1
+[13:16:03 -04:00] [blink_logger] [---I---] [thread 19240] Maximum number of faces is set to 3
+[13:16:04 -04:00] [blink_logger] [---I---] [thread 19240] Adding 1 threads to thread pool
+[13:16:04 -04:00] [blink_logger] [---W---] [thread 19240] Face detector could not find a face.
+[13:16:04 -04:00] [blink_logger] [---E---] [thread 19240] Failed to detect face with status: Failed to estimate.
+[13:26:02 -04:00] [blink_logger] [---I---] [thread 27628] Maximum number of sources is set to 1
+[13:26:02 -04:00] [blink_logger] [---I---] [thread 27628] Maximum number of faces is set to 3
+[13:26:02 -04:00] [blink_logger] [---I---] [thread 27628] Adding 1 threads to thread pool
+[13:27:54 -04:00] [blink_logger] [---W---] [thread 27628] Face detector could not find a face.
+[13:27:54 -04:00] [blink_logger] [---E---] [thread 27628] Failed to detect face with status: Failed to estimate.
+[13:37:46 -04:00] [blink_logger] [---I---] [thread 32560] Maximum number of sources is set to 1
+[13:37:46 -04:00] [blink_logger] [---I---] [thread 32560] Maximum number of faces is set to 3
+[13:37:47 -04:00] [blink_logger] [---I---] [thread 32560] Adding 1 threads to thread pool
+[13:37:47 -04:00] [blink_logger] [---W---] [thread 32560] Face detector could not find a face.
+[13:37:47 -04:00] [blink_logger] [---E---] [thread 32560] Failed to detect face with status: Failed to estimate.
+[14:28:30 -04:00] [blink_logger] [---I---] [thread 25384] Maximum number of sources is set to 1
+[14:28:30 -04:00] [blink_logger] [---I---] [thread 25384] Maximum number of faces is set to 3
+[14:28:30 -04:00] [blink_logger] [---I---] [thread 25384] Adding 1 threads to thread pool
+[14:28:30 -04:00] [blink_logger] [---I---] [thread 25384] Maximum number of sources is set to 1
+[14:28:30 -04:00] [blink_logger] [---I---] [thread 25384] Maximum number of faces is set to 3
+[14:28:31 -04:00] [blink_logger] [---I---] [thread 25384] Adding 1 threads to thread pool
+[14:28:31 -04:00] [blink_logger] [---W---] [thread 25384] Face detector could not find a face.
+[14:28:31 -04:00] [blink_logger] [---E---] [thread 25384] Failed to detect face with status: Failed to estimate.
+[14:29:34 -04:00] [blink_logger] [---I---] [thread 31496] Maximum number of sources is set to 1
+[14:29:34 -04:00] [blink_logger] [---I---] [thread 31496] Maximum number of faces is set to 3
+[14:29:34 -04:00] [blink_logger] [---I---] [thread 31496] Adding 1 threads to thread pool
+[14:29:35 -04:00] [blink_logger] [---I---] [thread 31496] Maximum number of sources is set to 1
+[14:29:35 -04:00] [blink_logger] [---I---] [thread 31496] Maximum number of faces is set to 3
+[14:29:35 -04:00] [blink_logger] [---I---] [thread 31496] Adding 1 threads to thread pool
+[14:29:35 -04:00] [blink_logger] [---W---] [thread 31496] Face detector could not find a face.
+[14:29:35 -04:00] [blink_logger] [---E---] [thread 31496] Failed to detect face with status: Failed to estimate.
+[14:31:27 -04:00] [blink_logger] [---I---] [thread 28612] Maximum number of sources is set to 1
+[14:31:27 -04:00] [blink_logger] [---I---] [thread 28612] Maximum number of faces is set to 3
+[14:31:27 -04:00] [blink_logger] [---I---] [thread 28612] Adding 1 threads to thread pool
+[14:31:27 -04:00] [blink_logger] [---I---] [thread 28612] Maximum number of sources is set to 1
+[14:31:27 -04:00] [blink_logger] [---I---] [thread 28612] Maximum number of faces is set to 3
+[14:31:28 -04:00] [blink_logger] [---I---] [thread 28612] Adding 1 threads to thread pool
+[14:31:28 -04:00] [blink_logger] [---W---] [thread 28612] Face detector could not find a face.
+[14:31:28 -04:00] [blink_logger] [---E---] [thread 28612] Failed to detect face with status: Failed to estimate.
+[14:34:21 -04:00] [blink_logger] [---I---] [thread 12860] Maximum number of sources is set to 1
+[14:34:21 -04:00] [blink_logger] [---I---] [thread 12860] Maximum number of faces is set to 3
+[14:34:22 -04:00] [blink_logger] [---I---] [thread 12860] Adding 1 threads to thread pool
+[14:34:22 -04:00] [blink_logger] [---I---] [thread 12860] Maximum number of sources is set to 1
+[14:34:22 -04:00] [blink_logger] [---I---] [thread 12860] Maximum number of faces is set to 3
+[14:34:22 -04:00] [blink_logger] [---I---] [thread 12860] Adding 1 threads to thread pool
+[14:34:22 -04:00] [blink_logger] [---W---] [thread 12860] Face detector could not find a face.
+[14:34:22 -04:00] [blink_logger] [---E---] [thread 12860] Failed to detect face with status: Failed to estimate.
+[14:35:44 -04:00] [blink_logger] [---I---] [thread 27424] Maximum number of sources is set to 1
+[14:35:44 -04:00] [blink_logger] [---I---] [thread 27424] Maximum number of faces is set to 3
+[14:35:44 -04:00] [blink_logger] [---I---] [thread 27424] Adding 1 threads to thread pool
+[14:35:45 -04:00] [blink_logger] [---I---] [thread 27424] Maximum number of sources is set to 1
+[14:35:45 -04:00] [blink_logger] [---I---] [thread 27424] Maximum number of faces is set to 3
+[14:35:45 -04:00] [blink_logger] [---I---] [thread 27424] Adding 1 threads to thread pool
+[14:35:45 -04:00] [blink_logger] [---W---] [thread 27424] Face detector could not find a face.
+[14:35:45 -04:00] [blink_logger] [---E---] [thread 27424] Failed to detect face with status: Failed to estimate.
+[14:39:07 -04:00] [blink_logger] [---I---] [thread 36688] Maximum number of sources is set to 1
+[14:39:07 -04:00] [blink_logger] [---I---] [thread 36688] Maximum number of faces is set to 3
+[14:39:08 -04:00] [blink_logger] [---I---] [thread 36688] Adding 1 threads to thread pool
+[14:39:08 -04:00] [blink_logger] [---I---] [thread 36688] Maximum number of sources is set to 1
+[14:39:08 -04:00] [blink_logger] [---I---] [thread 36688] Maximum number of faces is set to 3
+[14:39:08 -04:00] [blink_logger] [---I---] [thread 36688] Adding 1 threads to thread pool
+[14:39:08 -04:00] [blink_logger] [---W---] [thread 36688] Face detector could not find a face.
+[14:39:08 -04:00] [blink_logger] [---E---] [thread 36688] Failed to detect face with status: Failed to estimate.
+[14:44:54 -04:00] [blink_logger] [---I---] [thread 36648] Maximum number of sources is set to 1
+[14:44:54 -04:00] [blink_logger] [---I---] [thread 36648] Maximum number of faces is set to 3
+[14:44:55 -04:00] [blink_logger] [---I---] [thread 36648] Adding 1 threads to thread pool
+[14:44:55 -04:00] [blink_logger] [---I---] [thread 36648] Maximum number of sources is set to 1
+[14:44:55 -04:00] [blink_logger] [---I---] [thread 36648] Maximum number of faces is set to 3
+[14:44:55 -04:00] [blink_logger] [---I---] [thread 36648] Adding 1 threads to thread pool
+[14:44:55 -04:00] [blink_logger] [---W---] [thread 36648] Face detector could not find a face.
+[14:44:55 -04:00] [blink_logger] [---E---] [thread 36648] Failed to detect face with status: Failed to estimate.
+[14:48:41 -04:00] [blink_logger] [---I---] [thread 24552] Maximum number of sources is set to 1
+[14:48:41 -04:00] [blink_logger] [---I---] [thread 24552] Maximum number of faces is set to 3
+[14:48:42 -04:00] [blink_logger] [---I---] [thread 24552] Adding 1 threads to thread pool
+[14:50:31 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:31 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:40 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:40 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:48 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:48 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:49 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:49 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:50 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:50 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:51 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:51 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:52 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:52 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:52 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:52 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:53 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:53 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:54 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:54 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:55 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:55 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:56 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:56 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:57 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:57 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:58 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:58 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:50:59 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:50:59 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:00 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:00 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:03 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:03 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:04 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:04 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:05 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:05 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:06 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:06 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:07 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:07 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[14:51:08 -04:00] [blink_logger] [---W---] [thread 24552] Face detector could not find a face.
+[14:51:08 -04:00] [blink_logger] [---E---] [thread 24552] Failed to detect face with status: Failed to estimate.
+[11:12:01 -04:00] [blink_logger] [---I---] [thread 20020] Maximum number of sources is set to 1
+[11:12:01 -04:00] [blink_logger] [---I---] [thread 20020] Maximum number of faces is set to 3
+[11:12:01 -04:00] [blink_logger] [---I---] [thread 20020] Adding 1 threads to thread pool
+[11:13:57 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:13:57 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:13:58 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:13:58 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:13:59 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:13:59 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:00 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:00 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:01 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:01 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:02 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:02 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:03 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:03 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:03 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:03 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:04 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:04 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:05 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:05 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:06 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:06 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:07 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:07 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:08 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:08 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:10 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:10 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:11 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:11 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:12 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:12 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:14 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:14 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:16 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:16 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:17 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:17 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:18 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:18 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:19 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:19 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:14:20 -04:00] [blink_logger] [---W---] [thread 20020] Face detector could not find a face.
+[11:14:20 -04:00] [blink_logger] [---E---] [thread 20020] Failed to detect face with status: Failed to estimate.
+[11:20:25 -04:00] [blink_logger] [---I---] [thread 21640] Maximum number of sources is set to 1
+[11:20:25 -04:00] [blink_logger] [---I---] [thread 21640] Maximum number of faces is set to 3
+[11:20:26 -04:00] [blink_logger] [---I---] [thread 21640] Adding 1 threads to thread pool
+[11:22:15 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:15 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:16 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:16 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:17 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:17 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:18 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:18 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:19 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:19 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:19 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:19 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:20 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:20 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:21 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:21 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:22 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:22 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:23 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:23 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:24 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:24 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:25 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:25 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:25 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:25 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:27 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:27 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:28 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:28 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:29 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:29 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:31 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:31 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:33 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:33 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:34 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:34 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:35 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:35 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:36 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:36 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:22:36 -04:00] [blink_logger] [---W---] [thread 21640] Face detector could not find a face.
+[11:22:36 -04:00] [blink_logger] [---E---] [thread 21640] Failed to detect face with status: Failed to estimate.
+[11:41:07 -04:00] [blink_logger] [---I---] [thread 8296] Maximum number of sources is set to 1
+[11:41:07 -04:00] [blink_logger] [---I---] [thread 8296] Maximum number of faces is set to 3
+[11:41:07 -04:00] [blink_logger] [---I---] [thread 8296] Adding 1 threads to thread pool
+[11:42:56 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:42:56 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:42:57 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:42:57 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:42:58 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:42:58 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:42:59 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:42:59 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:00 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:00 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:01 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:01 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:01 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:01 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:02 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:02 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:03 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:03 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:04 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:04 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:05 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:05 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:06 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:06 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:07 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:07 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:08 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:08 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:09 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:09 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:10 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:10 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:12 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:12 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:14 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:14 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:15 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:15 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:16 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:16 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:17 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:17 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[11:43:18 -04:00] [blink_logger] [---W---] [thread 8296] Face detector could not find a face.
+[11:43:18 -04:00] [blink_logger] [---E---] [thread 8296] Failed to detect face with status: Failed to estimate.
+[12:03:34 -04:00] [blink_logger] [---I---] [thread 22548] Maximum number of sources is set to 1
+[12:03:34 -04:00] [blink_logger] [---I---] [thread 22548] Maximum number of faces is set to 3
+[12:03:35 -04:00] [blink_logger] [---I---] [thread 22548] Adding 1 threads to thread pool
+[12:05:24 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:24 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:25 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:25 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:26 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:26 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:27 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:27 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:27 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:27 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:28 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:28 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:29 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:29 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:30 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:30 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:31 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:31 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:32 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:32 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:33 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:33 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:33 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:33 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:34 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:34 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:36 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:36 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:37 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:37 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:38 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:38 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:40 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:40 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:42 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:42 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:43 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:43 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:44 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:44 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:45 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:45 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[12:05:45 -04:00] [blink_logger] [---W---] [thread 22548] Face detector could not find a face.
+[12:05:45 -04:00] [blink_logger] [---E---] [thread 22548] Failed to detect face with status: Failed to estimate.
+[17:06:47 -04:00] [blink_logger] [---I---] [thread 24908] Maximum number of sources is set to 1
+[17:06:47 -04:00] [blink_logger] [---I---] [thread 24908] Maximum number of faces is set to 3
+[17:06:47 -04:00] [blink_logger] [---I---] [thread 24908] Adding 1 threads to thread pool
+[17:06:47 -04:00] [blink_logger] [---W---] [thread 24908] Face detector could not find a face.
+[17:06:48 -04:00] [blink_logger] [---E---] [thread 24908] Failed to detect face with status: Failed to estimate.
+[17:11:18 -04:00] [blink_logger] [---I---] [thread 22912] Maximum number of sources is set to 1
+[17:11:18 -04:00] [blink_logger] [---I---] [thread 22912] Maximum number of faces is set to 3
+[17:11:19 -04:00] [blink_logger] [---I---] [thread 22912] Adding 1 threads to thread pool
+[17:11:19 -04:00] [blink_logger] [---W---] [thread 22912] Face detector could not find a face.
+[17:11:19 -04:00] [blink_logger] [---E---] [thread 22912] Failed to detect face with status: Failed to estimate.
+[17:14:27 -04:00] [blink_logger] [---I---] [thread 24756] Maximum number of sources is set to 1
+[17:14:27 -04:00] [blink_logger] [---I---] [thread 24756] Maximum number of faces is set to 3
+[17:14:27 -04:00] [blink_logger] [---I---] [thread 24756] Adding 1 threads to thread pool
+[17:14:27 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:27 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:28 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:28 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:29 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:29 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:29 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:29 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:30 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:30 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:31 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:31 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:32 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:32 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:33 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:33 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:34 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:34 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:35 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:35 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:14:36 -04:00] [blink_logger] [---W---] [thread 24756] Face detector could not find a face.
+[17:14:36 -04:00] [blink_logger] [---E---] [thread 24756] Failed to detect face with status: Failed to estimate.
+[17:15:38 -04:00] [blink_logger] [---I---] [thread 25972] Maximum number of sources is set to 1
+[17:15:38 -04:00] [blink_logger] [---I---] [thread 25972] Maximum number of faces is set to 3
+[17:15:38 -04:00] [blink_logger] [---I---] [thread 25972] Adding 1 threads to thread pool
+[17:15:38 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:38 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:39 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:39 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:40 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:40 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:40 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:40 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:41 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:41 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:42 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:42 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:43 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:43 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:44 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:44 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:45 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:45 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:46 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:46 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:15:47 -04:00] [blink_logger] [---W---] [thread 25972] Face detector could not find a face.
+[17:15:47 -04:00] [blink_logger] [---E---] [thread 25972] Failed to detect face with status: Failed to estimate.
+[17:19:08 -04:00] [blink_logger] [---I---] [thread 21584] Maximum number of sources is set to 1
+[17:19:08 -04:00] [blink_logger] [---I---] [thread 21584] Maximum number of faces is set to 3
+[17:19:08 -04:00] [blink_logger] [---I---] [thread 21584] Adding 1 threads to thread pool
+[17:19:08 -04:00] [blink_logger] [---W---] [thread 21584] Face detector could not find a face.
+[17:19:08 -04:00] [blink_logger] [---E---] [thread 21584] Failed to detect face with status: Failed to estimate.
+[17:19:09 -04:00] [blink_logger] [---W---] [thread 21584] Face detector could not find a face.
+[17:19:09 -04:00] [blink_logger] [---E---] [thread 21584] Failed to detect face with status: Failed to estimate.
+[17:19:39 -04:00] [blink_logger] [---I---] [thread 9548] Maximum number of sources is set to 1
+[17:19:39 -04:00] [blink_logger] [---I---] [thread 9548] Maximum number of faces is set to 3
+[17:19:40 -04:00] [blink_logger] [---I---] [thread 9548] Adding 1 threads to thread pool
+[17:19:40 -04:00] [blink_logger] [---W---] [thread 9548] Face detector could not find a face.
+[17:19:40 -04:00] [blink_logger] [---E---] [thread 9548] Failed to detect face with status: Failed to estimate.
+[17:19:40 -04:00] [blink_logger] [---W---] [thread 9548] Face detector could not find a face.
+[17:19:40 -04:00] [blink_logger] [---E---] [thread 9548] Failed to detect face with status: Failed to estimate.
+[10:31:43 -04:00] [blink_logger] [---I---] [thread 5760] Maximum number of sources is set to 1
+[10:31:43 -04:00] [blink_logger] [---I---] [thread 5760] Maximum number of faces is set to 3
+[10:31:43 -04:00] [blink_logger] [---I---] [thread 5760] Adding 1 threads to thread pool
